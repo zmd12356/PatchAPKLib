@@ -1,0 +1,1 @@
+int bspatch(int argc,char * argv[],JNIEnv *env);
